@@ -17,3 +17,4 @@ end
 
 def printer
   badge_maker(name)
+  assign_rooms(speakers)
