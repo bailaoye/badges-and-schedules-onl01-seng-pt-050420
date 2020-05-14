@@ -15,4 +15,5 @@ def assign_rooms(speakers)
   roomArray
 end
 
-def printer 
+def printer
+  badge_maker(name)
