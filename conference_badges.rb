@@ -15,7 +15,7 @@ def assign_rooms(speakers)
   roomArray
 end
 
-def printer(attendees)
-  badge_maker(name).each {|name| puts name}
+def printer(speakers)
+  badge_maker(speakers).each {|speakers| puts speakers}
   assign_rooms(speakers).each {|speakers| puts speakers}
 end
