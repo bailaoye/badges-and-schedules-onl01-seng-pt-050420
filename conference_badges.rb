@@ -5,7 +5,7 @@ end
 
 def batch_badge_creator(speakers)
   nameArray = []
-
+    
   end
 end
 
