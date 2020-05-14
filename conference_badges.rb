@@ -4,8 +4,7 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(nameArray)
-  i = 0
-  while i < nameArray.length()
+  
 end
 
 def assign_rooms(speakers)
