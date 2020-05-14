@@ -8,6 +8,7 @@ def batch_badge_creator(nameArray)
   while i < nameArray.length do
     nameArray[i] = "Hello, my name is #{name}."
     i += 1
+  end
   nameArray
 end
 
