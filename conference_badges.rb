@@ -11,5 +11,5 @@ end
 
 def assign_rooms(speakers)
   roomArray = []
-  
+  speakers.each {|name, | nameArray << "Hello"
 end
