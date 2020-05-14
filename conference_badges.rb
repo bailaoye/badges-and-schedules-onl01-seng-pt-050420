@@ -3,9 +3,8 @@ def badge_maker(name)
   return "Hello, my name is #{name}."
 end
 
-def batch_badge_creator(nameArr)
-  badgeBatch = []
-  nameArr.each do 
+def batch_badge_creator(nameArray)
+  
 end
 
 def assign_rooms(speakers)
